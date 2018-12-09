@@ -1,0 +1,736 @@
+
+
+<style>
+    .toplamTd {
+        width: 250px;
+        font-weight: bold;
+    }
+
+    .tdleft {
+        text-align: left;
+    }
+</style>
+
+<table style="width:100%">
+    <tr>
+        <td style="width: 25%">
+            <img src="https://www.ozdisan.com/Content/Company/images/logo.png" alt="" />
+        </td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%;">9.12.2018</td>
+    </tr>
+</table>
+<br /><br /><br />
+<table style="width: 100%" class="table table-bordered">
+    <tr style="font-weight: bold; background-color: #2C5299; color: white; height: 30px; font-family: Tahoma;">
+        <td>Fatura Adresim</td>
+    </tr>
+            <tr>
+                <td>
+                    Fatura adresi se&#231;ilmedi.
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+            </tr>
+</table>
+<br />
+<table class="table table-bordered" style="font-family: Tahoma;width:100%">
+    <tr style="font-weight: bold; background-color: #2C5299; color: white; height: 30px;font-family: Tahoma;">
+        <th class="text-left ">&#220;r&#252;n Kodu</th>
+        <th colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">&#220;r&#252;n A&#231;ýklama</th>
+        <th class="text-left">Birim Fiyat</th>
+            <th class="text-left">Ýndirimli Birim Fiyat</th>
+
+        <th class="text-left">KDV</th>
+        <th class="text-left">Adet</th>
+        <th class="text-left">KDV Dahil</th>
+    </tr>
+            <tr>
+                <td class="text-left">
+                    DHG5I600PM
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    DIODE U.FAST Single 5A 600V THT TO220ACFP
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,9876200 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,9382400 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    3
+
+                </td>
+                <td class="text-left">
+                    <span>3,32 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    WL2E107M1631MPA
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.EL.100uF 250V 16x31.5 7.5MM 105C L.ESR TB SAMW
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,5844300 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,5552100 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    6
+
+                </td>
+                <td class="text-left">
+                    <span>3,93 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    HE3A472MB016Z
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.M/L 4n7 1000V 9.5MM Z5U +/-20% TB
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,0674400 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,0640700 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    5
+
+                </td>
+                <td class="text-left">
+                    <span>0,38 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    FL4010_B0_10001
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    DIODE BRIDGE 4A 1000V PANJIT
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,2922200 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,2776100 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    2
+
+                </td>
+                <td class="text-left">
+                    <span>0,66 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    STF2N95K5
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    MOSFET DIS.2A 950V N-CH PLUS220FP SUPERMESH THT
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>1,6222800 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>1,5411700 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    5
+
+                </td>
+                <td class="text-left">
+                    <span>9,09 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    MUR820-KT
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    DIODE U.FAST Single 8A 200V THT TO220AC 
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,3339600 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,3172600 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    3
+
+                </td>
+                <td class="text-left">
+                    <span>1,12 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    TSL3A102JL016Y
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.CER.1nF 1000V 9.5MM 5% BULK
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,2733600 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,2596900 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    6
+
+                </td>
+                <td class="text-left">
+                    <span>1,84 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    C823A222J30C450
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.POL.2n2 1000VDC 7.5MM 5% 
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,1447900 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,1375500 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    4
+
+                </td>
+                <td class="text-left">
+                    <span>0,65 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    C822J103J60A605
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.POL.10nF 630VDC 15MM 5% 
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,1587000 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,1507700 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    4
+
+                </td>
+                <td class="text-left">
+                    <span>0,71 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    C323A333J90A907
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.POL.33nF 1000VDC 22.5MM 5% MKP TB FARATRON
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,2059700 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,1956700 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    2
+
+                </td>
+                <td class="text-left">
+                    <span>0,46 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    TMCF15-182K630VP10B
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.POL.1n8 630VDC 10MM 10% MPP
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,0441000 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,0419000 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    10
+
+                </td>
+                <td class="text-left">
+                    <span>0,49 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    C822J472K40C450
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.POL.4n7 630VDC 10MM 10% MKP BOX BULK
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,1252400 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,1189800 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    6
+
+                </td>
+                <td class="text-left">
+                    <span>0,84 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    C823A102J40C000
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.POL.1nf 1000V 10MM 5% MMKP BULK FARATRON
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,1197200 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,1137300 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    4
+
+                </td>
+                <td class="text-left">
+                    <span>0,54 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    GT126-5.0-03P-14-00AH
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    TERM.BLK.5.00MM 3P PCB TYPE 0 BOY GREEN GOLTEN
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,1169600 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,1111100 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    10
+
+                </td>
+                <td class="text-left">
+                    <span>1,31 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    RC0812U-220K
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    INDUCTOR 22UH 10X15MM RADIAL
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,2504700 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,2379500 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    2
+
+                </td>
+                <td class="text-left">
+                    <span>0,56 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    PKLH-450V101MK355
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    CAP.EL.100uF 450V 18x35.5 7.5MM 105C L.ESR KOSHIN
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>1,0353500 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,9835800 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    4
+
+                </td>
+                <td class="text-left">
+                    <span>4,64 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    OZDAS0105EL35
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    HEATSINK (L=35 mm)
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,3700000 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,3700000 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    3
+
+                </td>
+                <td class="text-left">
+                    <span>1,31 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    PRW0AWJW151B00
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    RES.CEMENT FIXED 10W 150R 5% WIREWOUND AX
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>0,3148700 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>0,2991300 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    2
+
+                </td>
+                <td class="text-left">
+                    <span>0,71 USD</span>
+                </td>
+
+            </tr>
+            <tr>
+                <td class="text-left">
+                    SD06025H4S
+                </td>
+
+                <td colspan="2" class="text-left hidden-xs hidden-sm visible-md visible-lg">
+                    FAN 60x60x25MM 12V 0.13A 1.56W 4000RPM SAVIOR
+                </td>
+                <td class="text-left">
+                    <span>
+                            <span>3,3541200 USD</span>
+                    </span>
+                </td>
+
+                    <td class="text-left">
+                        <span>3,1864100 USD</span>
+                    </td>
+
+                <td class="text-left">
+                    <span class="text-left">
+                        18,00 (%)
+                    </span>
+                </td>
+                <td class="text-left">
+                    1
+
+                </td>
+                <td class="text-left">
+                    <span>3,76 USD</span>
+                </td>
+
+            </tr>
+</table>
+<br />
+    <table style="width:100%">
+        <tr>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%">
+                <table style="font-family: Tahoma; text-align: left; width: 100%">
+                    <tr style="font-weight: bold; background-color: #2C5299; color: white; font-family: Tahoma; height: 30px;">
+                        <td colspan="2" class="tdleft">
+                            Toplam Tutar Detayý
+                        </td>
+                    </tr>
+                        <tr>
+                            <td class="tdleft">Ýndirim Tutarý</td>
+                            <td class="tdleft">1,56 USD</td>
+                        </tr>
+                        <tr style="background-color: #e9e9e9">
+                            <td class="tdleft">Ýndirimli Toplam Fiyat</td>
+                            <td class="tdleft">30,79 USD</td>
+                        </tr>
+
+                    <tr>
+                        <td class="tdleft">Kargo Fiyatý</td>
+                        <td class="tdleft"> 1,87 USD</td>
+                    </tr>
+                    <tr>
+                        <td class="tdleft">KDV</td>
+                        <td class="tdleft">5,88 USD</td>
+                    </tr>
+
+                    <tr>
+                        <td class="tdleft">Genel Toplam</td>
+                        <td class="tdleft">38,53 USD</td>
+                    </tr>
+                    <tr>
+                        <td class="tdleft">D&#246;viz Kuru</td>
+                        <td class="tdleft">5,34330 </td>
+                    </tr>
+                    <tr>
+                        <td class="tdleft">&#214;denecek Tutar</td>
+                        <td class="tdleft" style="font-weight: bold">205,90 TRY</td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+    </table>
+<table style="width:100%">
+    <tr>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%">
+            <img width="75" src="https://www.ozdisan.com/Content/Company/images/logo.png" alt="" />
+            <br />
+            <br />
+            Özdisan Elektronik A.Þ.
+            <br />
+            DES Sanayi Sitesi 104 Sokak A07 Blok No : 54 - 56
+            <br />
+            Yukarý Dudullu / Ümraniye / Ýstanbul -  T&#252;rkiye
+            <br />
+            T : +90 216 420 18 82 F : +90 216 466 36 82
+        </td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+        <td style="width: 25%"></td>
+    </tr>
+</table>
